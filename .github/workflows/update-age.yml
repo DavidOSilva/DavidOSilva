@@ -1,0 +1,32 @@
+name: Atualizar Idade no README
+
+on:
+  push:
+    branches:
+      - main  # Ou a branch que você deseja monitorar
+  workflow_dispatch:  # Permite rodar manualmente também
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Calcular a idade e atualizar o README
+        run: |
+          # Data de nascimento: 12/09/2000
+          birth_date="2000-09-12"
+          current_date=$(date +'%Y-%m-%d')
+
+          # Calcular a idade
+          age=$((($(date -d $current_date +%s) - $(date -d $birth_date +%s)) / 31556952))
+
+          # Substituir a idade no README dentro da tag <div align="center">
+          sed -i "s/Estudante de [0-9]\+ anos apaixonado por tecnologia/Estudante de $age anos apaixonado por tecnologia/" README.md
+
+          # Commit e push das mudanças
+          git config --global user.name "Seu Nome"
+          git config --global user.email "seu.email@example.com"
+          git commit -am "Atualizando idade no README"
+          git push
