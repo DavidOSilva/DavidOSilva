@@ -1,9 +1,8 @@
 name: Atualizar Idade no README
 
 on:
-  push:
-    branches:
-      - main  # Ou a branch que você deseja monitorar
+  schedule:
+    - cron: '0 0 * * *'  # Executar todos os dias à meia-noite UTC
   workflow_dispatch:  # Permite rodar manualmente também
 
 jobs:
