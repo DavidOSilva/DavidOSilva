@@ -56,6 +56,8 @@ Tenho experiência com deep learning e Python, com ênfase em implementações d
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="MySQL Logo">
 <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="33">
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="GitHub Logo">
 </p>
 
