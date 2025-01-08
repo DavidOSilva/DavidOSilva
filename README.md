@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  
   Estudante de 24 anos apaixonado por tecnologia cursando Engenharia da Computação na [Universidade Federal da Bahia](https://ufba.br/) em Salvador.
 </div>
 
