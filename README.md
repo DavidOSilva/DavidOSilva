@@ -10,9 +10,7 @@ Estudante de 24 anos, apaixonado por tecnologia, cursando Engenharia da Computa�
 
 <div align="justify">
 
-Tenho experiência com deep learning e Python, com ênfase em implementações de soluções usando CNNs em PyTorch. Recentemente, venho explorando o desenvolvimento web com HTML, CSS, JavaScript, Node.js, MySQL e React.
-
-Atualmente, faço parte do time de desenvolvimento do sistema [RIOSS](https://rioss.org/), um projeto de monitoramento de vazamentos de óleo usando aprendizado de máquina e imagens de radar do satélite Sentinel-1, apoiado pelo CENSIPAM para proteger a Amazônia Azul. 🚢
+Tenho experiência com deep learning e Python, com ênfase em implementações de soluções usando CNNs em PyTorch. Recentemente, venho explorando o desenvolvimento web com HTML, CSS, JavaScript, Node.js, MySQL e React. Atualmente, faço parte do time de desenvolvimento do sistema [RIOSS](https://rioss.org/), um projeto de monitoramento de vazamentos de óleo usando aprendizado de máquina e imagens de radar do satélite Sentinel-1, apoiado pelo CENSIPAM para proteger a Amazônia Azul. 🚢
 
 </div>
 
