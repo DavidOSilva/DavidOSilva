@@ -63,6 +63,15 @@ Tenho experiência com deep learning e Python, com ênfase em implementações d
 
 ##
 
+<div style="text-align: center;" align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidOSilva&show_icons=true&theme=transparent&title_color=fcd914&icon_color=fde24f&hide_title=true&text_color=fef3b3&border_color=fffbe6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOSilva&layout=compact&langs_count=6&title_color=fcd914&hide=assembly,tcl,verilog,vhdl,c,cmake,handlebars,systemverilog,batchfile,stata,swift&text_color=fef3b3&theme=transparent&border_color=fffbe6)
+
+</div>
+
+##
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidOSilva/DavidOSilva/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidOSilva/DavidOSilva/output/github-contribution-grid-snake.svg" />
