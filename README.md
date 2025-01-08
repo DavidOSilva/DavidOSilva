@@ -20,6 +20,7 @@ Tenho experiência com deep learning e Python, com ênfase em implementações d
 
 <div align="left">
 <h3>Entre em contato comigo!</h3>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FCD914?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/davidosilva/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:davidoliveirasilvaa@gmail.com)
 
