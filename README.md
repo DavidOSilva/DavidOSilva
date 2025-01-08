@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<div align="center">
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=FCD914&width=435&lines=Ol%C3%A1%2C+mundo!;Sou+o+David." alt="Typing SVG" /></a>
 </div>
 
