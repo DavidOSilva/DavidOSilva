@@ -21,8 +21,8 @@ jobs:
           # Calcular a idade
           age=$((($(date -d $current_date +%s) - $(date -d $birth_date +%s)) / 31556952))
 
-          # Substituir a idade no README dentro da tag <div align="center">
-          sed -i "s/Estudante de [0-9]\+ anos apaixonado por tecnologia/Estudante de $age anos apaixonado por tecnologia/" README.md
+          # Substituir a idade no README dentro da tag <div align="justify">
+          sed -i "s/Estudante de [0-9]\+ anos, apaixonado por tecnologia/Estudante de $age anos, apaixonado por tecnologia/" README.md
 
           # Verificar se o README foi alterado
           git diff --exit-code README.md || (
