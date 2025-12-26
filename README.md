@@ -4,7 +4,7 @@
 
 <div align="justify">
 
-Estudante de 24 anos, apaixonado por tecnologia, cursando Engenharia da Computação na [UFBA](https://ufba.br/) em Salvador. 💻
+Estudante de 25 anos, apaixonado por tecnologia, cursando Engenharia da Computação na [UFBA](https://ufba.br/) em Salvador. 💻
 
 </div>
 
